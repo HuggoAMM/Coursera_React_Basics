@@ -26,3 +26,9 @@ Modulo: Serie de componentes
 
 Props [Accesorios u Objeto de propiedades]: Permiten pasar datos de un comonente a otro
 Funciones Puras: funcion que siempre devuelve los mismos resultados para los mismos valores de argumento que se traspasan
+
+Enlaces: resuelven el problema de reutilización innecesaria de codigo entre componentes.
+Hooks: Permite conectarse al estado de React y a las caracteristicas de estilo de vida de los componentes
+
+Usar componentes sin estado [Stateless]: cuando su componente no necesita mantener su estado propio para poder funcionar
+Usar componentes con estado [Stateful]: cuando su componente necesita mantener su propio estatdo para poder funcionar
